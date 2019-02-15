@@ -12,9 +12,9 @@ webpack  入门教程
 
         检查 cnpm -v 是否存在
 
-    安装webpack   cnpm install webpack -g
+    **Mac安装由于有依赖包所以必须使用 sudo cnpm install webpack -g 全局安装，安装两遍，第一遍有可能出错
 
-    **使用sudo cnpm install webpack -g 全局安装，安装两遍，第一遍有可能出错
+        sudo 表示超级管理权限
 
     **使用webpack -v检查版本，出现版本表示成功了
 
